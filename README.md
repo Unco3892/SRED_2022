@@ -1,6 +1,8 @@
 # SRED_2022
 Supplementary material for "Improving Real Estate Rental Estimations with Visual Data" by Ilia Azizi and Iegor Rudnytskyi.
 
+The link to the dataset can be found at https://drive.switch.ch/index.php/s/R3mhYgtahI5i3YC
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
