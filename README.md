@@ -1,6 +1,7 @@
-# [Improving Real Estate Rental Estimations with Visual Data](https://www.mdpi.com/2504-2289/6/3/96)
-[Ilia Azizi](https://iliaazizi.com),
-[Iegor Rudnytskyi](https://irudnyts.github.io/)
+# Improving Real Estate Rental Estimations with Visual Data
+[![DOI:10.3390/bdcc6030096](http://img.shields.io/badge/DOI-10.3390/bdcc6030096-<4C1>.svg)](https://doi.org/10.3390/bdcc6030096) [:page_with_curl:](https://www.mdpi.com/2504-2289/6/3/96):point_left:
+
+[Ilia Azizi](https://iliaazizi.com), [Iegor Rudnytskyi](https://irudnyts.github.io/)
 
 **Abstract:**
 > Multi-modal data are widely available for online real estate listings. Announcements can contain various forms of data, including visual data and unstructured textual descriptions. Nonetheless, many traditional real estate pricing models rely solely on well-structured tabular features. This work investigates whether it is possible to improve the performance of the pricing model using additional unstructured data, namely images of the property and satellite images. We compare four models based on the type of input data they use: (1) tabular data only, (2) tabular data and property images, (3) tabular data and satellite images, and (4) tabular data and a combination of property and satellite images. In a supervised context, the branches of dedicated neural networks for each data type are fused (concatenated) to predict log rental prices. The novel dataset devised for the study (SRED) consists of 11,105 flat rentals advertised over the internet in Switzerland. The results reveal that using all three sources of data generally outperforms machine learning models built on only tabular information. The findings pave the way for further research on integrating other non-structured inputs, for instance, the textual descriptions of properties.
