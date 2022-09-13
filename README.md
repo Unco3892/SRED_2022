@@ -8,6 +8,7 @@
 
 ## Data
 The link to the Swiss Real Estate Dataset (SRED) can be found [here](https://drive.switch.ch/index.php/s/R3mhYgtahI5i3YC).
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 ## License
