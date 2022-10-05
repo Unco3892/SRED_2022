@@ -22,7 +22,7 @@ This dataset is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ## Code
-For reproduciblity, you can access the logs of the run on tensorboard and view the results as well the model architecture(graphs). Currently, there are no plans to share the code on Github; however, if you're interested, you can open an issue, and we're happy to share with you the version we have.
+For reproduciblity, you can access the logs of the runs on tensorboard and view the results as well the model architecture (graphs). Currently, there are no plans to share the code on Github; however, if you're interested, you can open an issue, and we're happy to share with you the version we have and you can integrate the changes via a pull request.
 ```
 tensorboard --logdir logs
 ```
