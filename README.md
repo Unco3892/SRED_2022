@@ -1,6 +1,6 @@
 # SRED: Swiss Real Estate Dataset
 
-[![DOI:10.3390/bdcc6030096](http://img.shields.io/badge/DOI-10.3390/bdcc6030096-<4C1>.svg)](https://doi.org/10.3390/bdcc6030096) [:page_with_curl:](https://www.mdpi.com/2504-2289/6/3/96):point_left:
+[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://www.mdpi.com/2504-2289/6/3/96) [![DOI](https://img.shields.io/badge/DOI-10.3390/bdcc6030096-green)](https://doi.org/10.3390/bdcc6030096) [![Dataset](https://img.shields.io/badge/Dataset-Download-orange)](https://github.com/Unco3892/SRED_2022/releases/download/v1.0/SRED_data.zip)
 
 [Ilia Azizi](https://iliaazizi.com), [Iegor Rudnytskyi](https://irudnyts.github.io/)
 
